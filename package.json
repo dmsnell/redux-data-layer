@@ -1,0 +1,14 @@
+{
+  "name": "failable-tasks",
+  "version": "1.0.0",
+  "description": "data-management library for React+Redux systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Snell <dennis.snell@automattic.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.2.0"
+  }
+}
