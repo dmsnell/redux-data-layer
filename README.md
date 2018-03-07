@@ -3,7 +3,7 @@
 One of the common problems within the React and Redux ecosystem is managing data coming from remote or asynchronous sources.
 This library exists to provide a robust solution to this problem; a solution which meets the following needs:
 
-- Abstract the fetching of data from requsting it
+- Abstract the fetching of data from requesting it
 - Define clear data types and transform incoming data into these types
 - Differentiate declarative requests from imperative fetches
 - Dynamically manage data models in a way that allows for code-splitting
